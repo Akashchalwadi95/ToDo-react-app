@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Akashchalwadi95/ToDo-react-app.git/static/css/main.65b376c4.css",
+    "main.js": "/Akashchalwadi95/ToDo-react-app.git/static/js/main.45801b8e.js",
+    "index.html": "/Akashchalwadi95/ToDo-react-app.git/index.html",
+    "main.65b376c4.css.map": "/Akashchalwadi95/ToDo-react-app.git/static/css/main.65b376c4.css.map",
+    "main.45801b8e.js.map": "/Akashchalwadi95/ToDo-react-app.git/static/js/main.45801b8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b376c4.css",
+    "static/js/main.45801b8e.js"
+  ]
+}
